@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "turbo": "^1.2.1"
+  },
+  "private": true,
+  "workspaces": [
+    "server",
+		"client"
+  ]
+}
